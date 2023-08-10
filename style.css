@@ -23,3 +23,20 @@
         left: 170px;
 }
 
+footer{
+    
+}
+
+.icon-faceboock{
+ background: url(assets/facebook.png);
+}
+
+.icon-youtube{
+    background: url(assets/youtube.png);
+}
+
+.icon-accessibility{
+    display: block;
+    width: 32px;
+    height: 32px;
+}
